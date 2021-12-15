@@ -28,3 +28,7 @@ Demo Video-
 
 https://www.youtube.com/watch?v=KRuP8g4te4E
 
+App link -
+https://share.streamlit.io/arpitsisodia288/streamlit_huggingface_app/main/model_server.py
+
+
